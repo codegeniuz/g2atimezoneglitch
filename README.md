@@ -2,8 +2,8 @@ Thank you for purchasing my G2A Method . With this method , you will be
 able to get anything from https ://www .g2a.com / completely for free . This
 exploit works for any product available for sale on G2A, for example:
 
-Giftcards - https://www.g2a.com/category/gift- cards-c6
-Games - https://www.g2a.com/category/games- c189
+Giftcards - https://www.g2a.com/category/gift-cards-c6
+Games - https://www.g2a.com/category/games-c189
 
 How does it work?
 It's simple . We will use a Tampermonkey script that changes the timezone
@@ -43,7 +43,7 @@ Here are the things you need:
 - At least 0.005 BTC to pay for the order
 - Google Chrome browser
 - Tampermonkey extension
-https://chrome.google.com/webstore/detail/tampermonkey/dhdgkkeb hmkfjojejmpbldmpobfkfo
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgkkebhmkfjojejmpbldmpobfkfo
 
 If the link is no longer working, simply google for Tampermonkey
 and you will find it
