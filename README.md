@@ -3,6 +3,8 @@ able to get anything from https ://www .g2a.com / completely for free . This
 exploit works for any product available for sale on G2A, for example:
 
 Giftcards - https://www.g2a.com/category/gift-cards-c6
+
+
 Games - https://www.g2a.com/category/games-c189
 
 How does it work?
